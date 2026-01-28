@@ -1,0 +1,24 @@
+{
+  "name": "invoice-management-app",
+  "version": "1.0.0",
+  "description": "Professional Invoice Management System built with PHP",
+  "main": "public/index.php",
+  "scripts": {
+    "dev": "php -S localhost:8000 -t public",
+    "build": "echo 'Build complete'",
+    "start": "php -S localhost:8000 -t public"
+  },
+  "keywords": [
+    "invoice",
+    "management",
+    "billing",
+    "php",
+    "sqlite"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x",
+    "php": "8.2"
+  }
+}
